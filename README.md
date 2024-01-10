@@ -1,5 +1,5 @@
 # LiftLab
-Currently working on the development of 'LiftLab,' a dynamic fitness database
+I am currently working on the development of 'LiftLab,' a dynamic fitness database
 
 Welcome to the LiftLab Fitness Database project! This project aims to revolutionize the way users discover and explore workout routines based on specific muscle groups. Whether you're a fitness enthusiast, trainer, or someone just getting started, liftlab is designed to provide an intuitive and comprehensive platform for finding the perfect exercises tailored to your needs.
 
